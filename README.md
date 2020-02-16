@@ -1,6 +1,6 @@
 # Joke Generator
 
-Joke Generator used with Fetch API.  
+Joke Generator works with API.  
 No installation.  
 Used AJAX and XHR Object Methods.   
 Use Skeleton CSS for the form.

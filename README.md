@@ -18,7 +18,7 @@ http://www.icndb.com/api/
 
 const xhr = new XMLHttpRequest();
 xhr.open('GET', `http://api.icndb.com/jokes/random/${number}`, true);
-xhr.onload = function() { forEach(function(){ here }}
+xhr.onload = function() { forEach(function(){ code here }}
 xhr.send();
 
 ```

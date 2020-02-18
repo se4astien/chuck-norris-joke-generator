@@ -2,7 +2,7 @@
 
 Joke Generator works with API.  
 No installation.  
-Used AJAX and XHR Object Methods.   
+Used XMLHttpRequest Object Method of making AJAX requests.   
 Use Skeleton CSS for the form.
 
 ## API
